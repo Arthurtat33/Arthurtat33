@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arthurtat33
-- 👀 I’m interested in html, CSS, javasript, python, nodejs
+- 👀 I’m interested in html, CSS, javasript, python, nodejs, React 
 - 🌱 I’m currently learning nodejs, javasript 
 - 💞️ I’m looking to collaborate on many project
 - 📫 How to reach me https://was.me/237652949715/
