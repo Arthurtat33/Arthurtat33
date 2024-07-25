@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nodejs, javasript 
 - 💞️ I’m looking to collaborate on many project
 - 📫 How to reach me https://wa.me/237652949715/
-- 😄 Pronouns: ruthdux
+- 😄 Pronouns: Artdev
 - ⚡ Fun fact:......
 
 <!---
