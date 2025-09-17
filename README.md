@@ -1,6 +1,6 @@
 <!-- 🖼️ Custom Banner (Optional) -->
 <p align="center">
-  <img src="https://i.ibb.co/3yRzFjP/dev-banner.png" alt="Artdev Banner" width="100%" />
+  <img src="[https://i.ibb.co/3yRzFjP/dev-banner.png](https://ibb.co/wFqn8wqd)" alt="Artdev Banner" width="100%" />
 </p>
 
 # 👋 Hi there, I'm Artdev!  
