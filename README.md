@@ -117,9 +117,6 @@ Fintech-style investment & trading platform.
 - Multi-role dashboards, Flutterwave & MTN MoMo payment integration, transaction handling
 - **Stack:** React, Node.js/Express, MongoDB
 
-### 👁️ LYNX VISION
-System design & UML documentation project for an ophthalmological clinic (freelance).
-
 ### 🔐 GGH Lattice Cryptography Demo
 Interactive browser-based demo of lattice-based (GGH) cryptography, built as a personal learning exercise exploring cipher design from Caesar → Vigenère → Feistel → lattice-based schemes.
 
