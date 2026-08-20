@@ -1,6 +1,6 @@
 <!-- 🖼️ Custom Banner -->
 <p align="center">
-  <img src="./logo_final.png" alt="banner" border="0">
+  <img src="./logo_final.png" alt="banner" border="0" height="100">
 </p>
 
 <h1 align="center">👋 Hi there, I'm Artdev!</h1>
