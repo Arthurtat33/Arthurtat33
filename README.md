@@ -1,7 +1,7 @@
  
 <!-- 🖼️ Custom Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/wFqn8wqd/file-0000000013fc61f98365f32185a46ff5.png" alt="banner" border="0">
+  <img src="./logo_final.png" alt="banner" border="0">
 </p>
 
 <h1 align="center">👋 Hi there, I'm Artdev!</h1>
