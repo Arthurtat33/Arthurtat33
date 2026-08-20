@@ -1,4 +1,3 @@
- 
 <!-- 🖼️ Custom Banner -->
 <p align="center">
   <img src="./logo_final.png" alt="banner" border="0">
@@ -13,6 +12,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arthurtat33&style=flat-square&color=blueviolet" alt="profile views" />
   <img src="https://img.shields.io/badge/Status-Building%20GrowFund-blueviolet?style=flat-square" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arthurtat33/Arthurtat33/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arthurtat33/Arthurtat33/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arthurtat33/Arthurtat33/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -134,7 +141,5 @@ Interactive browser-based demo of lattice-based (GGH) cryptography, built as a p
 
 <p align="center">⭐️ Check out my repositories, contribute, or just say hi!</p>
 
-<!---
-Arthurtat33/Arthurtat33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--- Arthurtat33/Arthurtat33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
+
