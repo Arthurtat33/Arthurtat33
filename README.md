@@ -119,7 +119,7 @@ Bilingual (French/English) communication platform for African universities.
 - Push notifications, offline support, admin & super-admin dashboards
 - **Stack:** React/Vite, React Native, Node.js/Express, MongoDB, Socket.io, Docker + Traefik on VPS
 
-### 💰 [Wouver TNC](#) <!-- TODO: add live link -->
+### 💰 [Wouver](#) <!-- TODO: add live link -->
 Fintech-style investment & trading platform.
 - Multi-role dashboards, Flutterwave & MTN MoMo payment integration, transaction handling
 - **Stack:** React, Node.js/Express, MongoDB
